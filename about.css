@@ -13,12 +13,12 @@ body {
      }
     .photo{
     position: absolute;
-    width:35%;
+    width:40%;
     left: 50%;
     transform: translate(-50%, -50%);}
     .text 
     {position: absolute;
-    top: 700px;
+    top: 600px;
     left: 5%;
     font-size: 15px;
     width: 40%;
@@ -34,30 +34,21 @@ body {
     color: black;
     text-align:end;
     text-align:right;} 
-     #circle1 {
-    position: absolute;
-    left: 50%;
-    top: 200%;
-    transform: translate(-50%, -50%);
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    background-color: black;
-    margin:2%;}
+
     #circle2 {
         position: absolute;
         left: 50%;
-        top: 220%;
+        top: 160%;
         transform: translate(-50%, -50%);
-        width: 20px;
-        height: 20px;
+        width: 30px;
+        height: 30px;
         border-radius: 50%;
         background-color: black;
         margin:2%;}
      #circle3 {
     position: absolute;
     left: 50%;
-    top: 240%;
+    top: 180%;
     transform: translate(-50%, -50%);
     width: 20px;
     height: 20px;
@@ -67,7 +58,7 @@ body {
      #circle4 {
     position: absolute;
     left: 50%;
-    top: 260%;
+    top: 200%;
     transform: translate(-50%, -50%);
     width: 20px;
     height: 20px;
@@ -77,33 +68,17 @@ body {
      #circle5 {
     position: absolute;
     left: 50%;
-    top: 280%;
+    top: 220%;
     transform: translate(-50%, -50%);
     width: 20px;
     height: 20px;
     border-radius: 50%;
     background-color:black;
     margin:2%;}
-     #square1 {
-    position: fixed;
-    top: 1%;
-    right: 2%;
-    width: 20px;
-    height: 20px;
-    background-color: rgba(0, 0, 0, 0.986);
-    border-radius: 0.5px;} 
-     #square2 {
-    position: fixed;
-    top: 5%;
-    right: 2%;
-    width: 20px;
-    height: 20px;
-    background-color: rgba(0, 0, 0, 0.986);
-    border-radius: 0.5px;} 
      .text5 {   
     position:absolute;
     left: 50%;
-    top: 208%;
+    top: 148%;
     transform: translate(-50%, -50%);
     font-size: 20px;
     color: rgba(0, 0, 0, 0.80);
@@ -112,7 +87,7 @@ body {
     position:absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 210%;
+    top: 150%;
     font-size: 30px;
     color: rgba(0, 0, 0, 0.80);
     margin:1%;} 
@@ -120,7 +95,7 @@ body {
     position:absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 214%;
+    top: 154%;
     font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
     margin:1%;} 
@@ -128,7 +103,7 @@ body {
     position:absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 228%;
+    top: 168%;
     font-size: 20px;
     color: rgba(0, 0, 0, 0.80);
     margin:1%;} 
@@ -136,7 +111,7 @@ body {
     position:absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 230%;
+    top: 170%;
     font-size: 30px;
     color: rgba(0, 0, 0, 0.80);
     margin:1%;} 
@@ -144,7 +119,7 @@ body {
     position:absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 234%;
+    top: 174%;
     font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
     margin:1%;} 
@@ -152,7 +127,7 @@ body {
     position:absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 248%;
+    top: 188%;
     font-size: 20px; 
     color: rgba(0, 0, 0, 0.80);
     margin:1%;} 
@@ -160,7 +135,7 @@ body {
     position:absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 250%;
+    top: 190%;
     font-size: 30px; 
     color: rgba(0, 0, 0, 0.80);
     margin:1%;} 
@@ -168,7 +143,7 @@ body {
     position:absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 254%;
+    top: 194%;
     font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
     margin:1%;} 
@@ -176,7 +151,7 @@ body {
     position:absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 268%;
+    top: 208%;
     font-size: 20px;
     color: rgba(0, 0, 0, 0.80);
     margin:1%;} 
@@ -184,7 +159,7 @@ body {
     position:absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 270%;
+    top: 210%;
     font-size: 30px;
     color: rgba(0, 0, 0, 0.80);
     margin:1%;} 
@@ -192,7 +167,7 @@ body {
     position:absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 274%;
+    top: 214%;
     font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
     margin:1%;} 
@@ -200,7 +175,7 @@ body {
     position:absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 310%;
+    top: 250%;
     font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
     padding-bottom: 50px;} 
@@ -211,7 +186,7 @@ body {
        left: 2%;
        font-size: 30px;
        color: rgba(0, 0, 0, 0.80);
-       font-family: 'Courier New', Courier, monospace;
+       font-family: 'Titillium Web';
        text-align: center;} 
     .heading {
        position: fixed;
@@ -221,17 +196,9 @@ body {
        display:block;
        top:4%;
        color: white;
-       font-size: 35px;
+       font-size: 40px;
        z-index: 999;
-       font-family: 'Courier New', Courier, monospace;
-       background-color:black;
-       padding-left: 25%;
-       padding-right: 25%;
-       border-style: solid;
-       border-color: black;
-       background-color:black;
-       border-width: 0px;
-       border-radius: 0px;}
+       font-family: 'Titillium Web';}
     
     @media screen and (max-width: 900px){ 
       body {width:50%;
