@@ -22,7 +22,7 @@ body {
 
     .photo{
     position: absolute;
-    width:60%;
+    width:50%;
     left: 50%;
     transform: translate(-50%, -50%);}
     .text 
@@ -37,7 +37,7 @@ body {
     font-family: 'pressstart';}
      .text1 {
     position: absolute;
-    top: 1300px;
+    top: 1600px;
     right: 5%;
     font-size: 25px;
     width: 40%;
@@ -91,7 +91,7 @@ body {
     left: 50%;
     top: 148%;
     transform: translate(-50%, -50%);
-    font-size: 20px;
+    font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
     font-family: 'pressstart';
     margin:1%;} 
@@ -100,7 +100,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     top: 150%;
-    font-size: 30px;
+    font-size: 25px;
     color: rgba(0, 0, 0, 0.80);
     font-family: 'pressstart';
     margin:1%;} 
@@ -118,7 +118,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     top: 168%;
-    font-size: 20px;
+    font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
     font-family: 'pressstart';
     margin:1%;} 
@@ -127,7 +127,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     top: 170%;
-    font-size: 30px;
+    font-size: 25px;
     color: rgba(0, 0, 0, 0.80);
     font-family: 'pressstart';
     margin:1%;} 
@@ -145,7 +145,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     top: 188%;
-    font-size: 20px; 
+    font-size: 15px; 
     color: rgba(0, 0, 0, 0.80);
     font-family: 'pressstart';
     margin:1%;} 
@@ -154,7 +154,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     top: 190%;
-    font-size: 30px; 
+    font-size: 25px; 
     color: rgba(0, 0, 0, 0.80);
     font-family: 'pressstart';
     margin:1%;} 
@@ -172,7 +172,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     top: 208%;
-    font-size: 20px;
+    font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
     font-family: 'pressstart';
     margin:1%;} 
@@ -181,7 +181,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     top: 210%;
-    font-size: 30px;
+    font-size: 25px;
     color: rgba(0, 0, 0, 0.80);
     font-family: 'pressstart';
     margin:1%;} 
@@ -245,7 +245,8 @@ body {
         .text {
             top:300px;}
         .text1 {
-            top:900px;}
+            top:1200px;
+        width:70%}
 
     .text17, .heading {font-size: 10px;}
     .heading {
@@ -254,7 +255,7 @@ body {
     }
         .photo{
             width:60%;
-            top:100px;}
+            top:500px;}
     }
     @media screen and (min-width: 900px){ 
         body {width:100%;
@@ -281,5 +282,5 @@ body {
                  width:40%;
                  left: 50%;
                  transform: translate(-50%, -50%);
-                 top:700px;}  
+                 top:900px;}  
         }
