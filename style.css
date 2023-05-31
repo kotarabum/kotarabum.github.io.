@@ -115,6 +115,9 @@ body {
       
                 body { width: 50%;}
                 .centered {font-size: 30px;}
-                .bottom { font-size: 16px;}
+                .bottom { font-size: 16px;
+                top: 45%;}
+                .STAGE3 { 
+                  bottom: 40%;
                 .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2 { font-size: 24px}}
     
