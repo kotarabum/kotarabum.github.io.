@@ -1,13 +1,16 @@
 
-
-    body { 
-        background-color: black;
-        background: url(MOVING%20TEMPLE%202.gif);
-        background-size: cover;
-        background-position: center center;
-        background-attachment: absolute;
-        }
-        
+body {
+  margin: 0;
+  padding: 0;
+  }
+div.img {
+  background-image: url(MOVING%20TEMPLE%202.gif);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100vw;
+  height: 100vh;
+  }
         .about, .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2
         {position: fixed;
         text-align: center;
