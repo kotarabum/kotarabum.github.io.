@@ -48,12 +48,12 @@ body {
             width:100%;
             font-family:'Press Start 2P';}
         .about {
+            position:absolute;
             top: 5%;
             left: 5%;
+            color: #fff;
             font-size: 20px;
-            background-color: rgba(24, 58, 35, 0);
-            font-family:'Press Start 2P';
-            color: white;}  
+            font-family:'Press Start 2P';}  
 
         .STAGE3 {
             bottom:35%;
