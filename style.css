@@ -1,11 +1,11 @@
 
 
     body { 
-        background-color: white;
+        background-color: black;
         background: url(MOVING%20TEMPLE%202.gif);
         background-size: cover;
         background-position: center center;
-        background-attachment: relative;
+        background-attachment: absolute;
         }
         
         .about, .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2
