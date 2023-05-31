@@ -1,13 +1,11 @@
 
 body {
-  margin: 0;
-  padding: 0;
-  }
-div.img {
   background-image: url(MOVING%20TEMPLE%202.gif);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+  margine: 0;
+  padding: 0;
   }
         .about, .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2
         {position: fixed;
