@@ -12,6 +12,7 @@ body {
     background-size: 50%;
     margin:5%;
     font-family: 'pressstart';}
+
     .text, .text1, .text2, .text3, .text4, .text5, .text6, .text7,
      .text8, .text9, .text10, .text11, .text12, .text13, .text14, .text15, .text16, .text17 {
     font-weight: 300;
@@ -263,7 +264,7 @@ body {
         font-size: 15px;
         padding-top: 300px;}
         .text2 { 
-            font-size: 15px;
+            font-size: 16px;
             padding-top: 400px; 
         margin-left: -160px; 
         margin-right: 160px;
