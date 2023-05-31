@@ -10,6 +10,7 @@ body {
   margine: 0;
   padding: 0;
   overflow-x: hidden;
+  overflow-y: hidden;
   }
         .about, .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2
         {position: fixed;
@@ -24,7 +25,7 @@ body {
             top: 5%;
             right: 5%;
             color: #fff;
-            font-size: 25px;
+            font-size: 20px;
             font-family:'Titilium Web';} 
     
         .centered {
@@ -47,8 +48,8 @@ body {
             font-family:'Titilium Web';}
         .about {
             top: 5%;
-            left: 5%;
-            font-size: 25px;
+            left: -50%;
+            font-size: 20px;
             background-color: rgba(24, 58, 35, 0);
             font-family:'Titilium Web';
             color: white;}  
