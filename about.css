@@ -220,7 +220,7 @@ body {
        display:block;
        top:4%;
        color: rgba(0, 0, 0, 0.80);
-       font-size: 40px;
+       font-size: 30px;
        z-index: 999;
         font-family: 'pressstart';
        }
@@ -275,7 +275,7 @@ body {
          .text3, .text4, .text5, .text6, .text7,
      .text8, .text9, .text10, .text11, .text12, .text13, .text14, .text15, .text16, .text17 {
          margin-left: 0px;}
-         .text17, .heading {font-size: 30px;}
+         .text17, .heading {font-size: 16px;}
         .photo { position: absolute;
                  width:40%;
                  left: 50%;
