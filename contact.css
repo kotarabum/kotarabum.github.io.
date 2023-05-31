@@ -47,6 +47,7 @@
          top: 200px;
          width: 100%;
          font-size: 25px;
+        text-decotration: none;
          color: rgba(255, 255, 255, 0.8);
        font-family: 'pressstart';}
 
@@ -61,6 +62,7 @@
         width: 90%;
         font-size: 20px;
         color: rgba(255, 255, 255, 0.8);
+        text-decotration: none;
        font-family: 'pressstart';}
 
     .text2 {
@@ -73,6 +75,7 @@
         width: 80%;
         font-size: 20px;
         color: rgba(255, 255, 255, 0.8);
+        text-decotration: none;
        font-family: 'pressstart';}
     .text3 {
         position:absolute;
@@ -84,6 +87,7 @@
         width: 90%;
         font-size: 20px;
         color: rgba(255, 255, 255, 0.8);
+        text-decotration: none;
        font-family: 'pressstart';}
     .text4 {
         position:absolute;
@@ -95,6 +99,7 @@
         width: 80%;
         font-size: 20px;
         color: rgba(255, 255, 255, 0.8);
+        text-decotration: none;
        font-family: 'pressstart';}
 
         @media screen and (max-width: 900px)
