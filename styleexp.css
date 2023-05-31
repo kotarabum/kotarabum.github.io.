@@ -1,0 +1,7 @@
+.container1 {
+    margin: auto 0;
+    width: min(90% 200px);
+    padding-top: 300px;}
+.split {
+    display: flex;
+    flex-direction: row;}
