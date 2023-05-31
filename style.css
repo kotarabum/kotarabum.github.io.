@@ -14,8 +14,8 @@ body {
   text-decoration: none;
   }
 
- @pressstart2p {
-    font-family: pressstart2p;
+ @pressstart {
+    font-family: pressstart;
     src: url(PressStart2P-Regular.ttf);
 }
 
@@ -25,7 +25,7 @@ body {
         width:100%;
         font-size: 18px ;
         font-weight: 10;
-        font-family: 'pressstart2p';}
+        font-family: 'pressstart';}
     
         .contact {
             position:absolute;
@@ -33,7 +33,7 @@ body {
             right: 5%;
             color: #fff;
             font-size: 20px;
-            font-family: 'pressstart2p';} 
+            font-family: 'pressstart';} 
     
         .centered {
             position: fixed;
@@ -43,7 +43,7 @@ body {
             font-size: calc(60px-2vm);
             width:100%;
             font-weight: 70;
-            font-family: 'pressstart2p';}
+            font-family: 'pressstart';}
         .bottom {
             position: fixed;
             text-align: center;
@@ -52,39 +52,39 @@ body {
             color: #fff;
             font-size: calc(70px-2vm);
             width:100%;
-            font-family: 'pressstart2p';}
+            font-family: 'pressstart';}
         .about {
             position:absolute;
             top: 5%;
             left: 5%;
             color: #fff;
             font-size: 20px;
-            font-family: 'pressstart2p';}  
+            font-family: 'pressstart';}  
 
         .STAGE3 {
             bottom:35%;
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-family: 'pressstart2p';} 
+            font-family: 'pressstart';} 
         .STAGE2 {
             bottom:30%;
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-family: 'pressstart2p';} 
+            font-family: 'pressstart';} 
         .modelling {
             bottom:25%;
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-family: 'pressstart2p';} 
+            font-family: 'pressstart';} 
         .renders {
             bottom:20%;
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-family: 'pressstart2p'; }
+            font-family: 'pressstart'; }
         .sketching {
             position: fixed;
             text-align: center;
@@ -92,7 +92,7 @@ body {
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-family: 'pressstart2p';}
+            font-family: 'pressstart';}
     @media screen and (min-width: 900px)  {
                 body { width: 100%;}
                 .centered { font-size: 60px;}
