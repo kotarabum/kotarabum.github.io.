@@ -49,7 +49,7 @@
          width: 100%;
          font-size: 25px;
         text-decotration: none;
-         color: rgba(255, 255, 255, 0.8);
+         color: white;
        font-family: 'pressstart';}
 
 
@@ -62,7 +62,7 @@
         top: 240px;
         width: 90%;
         font-size: 20px;
-        color: rgba(255, 255, 255, 0.8);
+        color: white;
         text-decotration: none;
        font-family: 'pressstart';}
 
@@ -75,7 +75,7 @@
         top: 540px;
         width: 80%;
         font-size: 20px;
-        color: rgba(255, 255, 255, 0.8);
+        color: white;
         text-decotration: none;
        font-family: 'pressstart';}
     .text3 {
@@ -87,7 +87,7 @@
         top: 570px;
         width: 90%;
         font-size: 20px;
-        color: rgba(255, 255, 255, 0.8);
+        color: white;
         text-decotration: none;
        font-family: 'pressstart';}
     .text4 {
@@ -99,7 +99,7 @@
         top: 600px;
         width: 80%;
         font-size: 20px;
-        color: rgba(255, 255, 255, 0.8);
+        color: white;
         text-decotration: none;
        font-family: 'pressstart';}
 
