@@ -47,7 +47,7 @@ body {
         .bottom {
             position: fixed;
             text-align: center;
-            bottom:55%;
+            bottom:58%;
             background-color: rgba(24, 58, 35, 0);
             color: #fff;
             font-size: calc(70px-2vm);
