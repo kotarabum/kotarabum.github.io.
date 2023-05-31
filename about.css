@@ -1,3 +1,8 @@
+    @pressstart2p {
+    font-family: pressstart2p;
+    src: url(PressStart2P-Regular.ttf);
+}
+
 body {
     margin-left: 0;
     margin-right: 0;
@@ -6,15 +11,12 @@ body {
     background-color: rgb(255, 255, 255);
     background-size: 50%;
     margin:5%;
-    font-family: 'Courier New', Courier, monospace;}
+    font-family: 'pressstart2p';}
     .text, .text1, .text2, .text3, .text4, .text5, .text6, .text7,
      .text8, .text9, .text10, .text11, .text12, .text13, .text14, .text15, .text16, .text17 {
     font-weight: 300;
      }
-    @pressstart2p {
-    font-family: pressstart2p;
-    src: url(PressStart2P-Regular.ttf);
-}
+
 
 
     .photo{
@@ -26,21 +28,22 @@ body {
     {position: absolute;
     top: 600px;
     left: 5%;
-    font-size: 15px;
+    font-size: 25px;
     width: 40%;
     color: black;
     text-align:end;
     text-align: left;
-    font-family: pressstart2p;}
+    font-family: 'pressstart2p';}
      .text1 {
     position: absolute;
     top: 1200px;
     right: 5%;
-    font-size: 15px;
+    font-size: 25px;
     width: 40%;
     color: black;
     text-align:end;
-    text-align:right;} 
+    text-align:right;
+    font-family: 'pressstart2p';} 
 
     #circle2 {
         position: absolute;
@@ -89,6 +92,7 @@ body {
     transform: translate(-50%, -50%);
     font-size: 20px;
     color: rgba(0, 0, 0, 0.80);
+    font-family: 'pressstart2p';
     margin:1%;} 
      .text3 {
     position:absolute;
@@ -97,6 +101,7 @@ body {
     top: 150%;
     font-size: 30px;
     color: rgba(0, 0, 0, 0.80);
+    font-family: 'pressstart2p';
     margin:1%;} 
      .text4 {
     position:absolute;
@@ -105,6 +110,7 @@ body {
     top: 154%;
     font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
+    font-family: 'pressstart2p';
     margin:1%;} 
     .text6 {
     position:absolute;
@@ -113,6 +119,7 @@ body {
     top: 168%;
     font-size: 20px;
     color: rgba(0, 0, 0, 0.80);
+    font-family: 'pressstart2p';
     margin:1%;} 
     .text7 {
     position:absolute;
@@ -121,6 +128,7 @@ body {
     top: 170%;
     font-size: 30px;
     color: rgba(0, 0, 0, 0.80);
+    font-family: 'pressstart2p';
     margin:1%;} 
     .text8 {
     position:absolute;
@@ -129,6 +137,7 @@ body {
     top: 174%;
     font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
+    font-family: 'pressstart2p';
     margin:1%;} 
     .text9 {
     position:absolute;
@@ -137,6 +146,7 @@ body {
     top: 188%;
     font-size: 20px; 
     color: rgba(0, 0, 0, 0.80);
+    font-family: 'pressstart2p';
     margin:1%;} 
     .text10 {
     position:absolute;
@@ -145,6 +155,7 @@ body {
     top: 190%;
     font-size: 30px; 
     color: rgba(0, 0, 0, 0.80);
+    font-family: 'pressstart2p';
     margin:1%;} 
     .text11 {
     position:absolute;
@@ -153,6 +164,7 @@ body {
     top: 194%;
     font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
+    font-family: 'pressstart2p';
     margin:1%;} 
     .text12 {
     position:absolute;
@@ -161,6 +173,7 @@ body {
     top: 208%;
     font-size: 20px;
     color: rgba(0, 0, 0, 0.80);
+    font-family: 'pressstart2p';
     margin:1%;} 
     .text13 {
     position:absolute;
@@ -169,6 +182,7 @@ body {
     top: 210%;
     font-size: 30px;
     color: rgba(0, 0, 0, 0.80);
+    font-family: 'pressstart2p';
     margin:1%;} 
      .text14 {
     position:absolute;
@@ -177,6 +191,7 @@ body {
     top: 214%;
     font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
+    font-family: 'pressstart2p';
     margin:1%;} 
      .text16 {
     position:absolute;
@@ -185,7 +200,8 @@ body {
     top: 250%;
     font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
-    padding-bottom: 50px;} 
+    padding-bottom: 50px;
+    font-family: 'pressstart2p';} 
     .text17 {
        position:fixed;
        display: block;
@@ -193,8 +209,9 @@ body {
        left: 2%;
        font-size: 30px;
        color: rgba(0, 0, 0, 0.80);
-       font-family: 'Titillium Web';
-       text-align: center;} 
+       ;
+       text-align: center;
+       font-family: 'pressstart2p';} 
     .heading {
        position: fixed;
        left: 50%;
@@ -202,10 +219,11 @@ body {
        text-align: center;
        display:block;
        top:4%;
-       color: white;
+       color: rgba(0, 0, 0, 0.80);
        font-size: 40px;
        z-index: 999;
-       font-family: 'Titillium Web';}
+        font-family: 'pressstart2p';
+       }
     
     @media screen and (max-width: 900px){ 
       body {width:50%;
