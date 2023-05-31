@@ -91,16 +91,22 @@ body {
                 body { width: 100%;}
                 .centered { font-size: 60px;}
                 .bottom { font-size: 20px;}
-                .about, .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2 { font-size: 30px}}
+                .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2 { font-size: 30px}}
     @media screen and (max-width: 900px) {
         
-            .contact {
+            .contact  {
             position:absolute;
             top: 4%;
             right: 10%;
             color: #fff;
             font-size: 16px;} 
-        
+            .about{
+            position:absolute;
+            top: 4%;
+            left: 10%;
+            color: #fff;
+            font-size: 16px;} 
+      
                 body { width: 50%;}
                 .centered {font-size: 30px;}
                 .bottom { font-size: 16px;}
