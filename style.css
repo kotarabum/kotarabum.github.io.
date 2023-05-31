@@ -1,6 +1,7 @@
 
 body {
   background-image: url(MOVING%20TEMPLE%202.gif);
+  background-color: rgb(59, 59, 59);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -14,16 +15,16 @@ body {
         {position: fixed;
         text-align: center;
         width:100%;
-        font-size: 16px ;
-        font-weight: 20;
+        font-size: 18px ;
+        font-weight: 10;
         font-family:'Titilium Web';}
     
         .contact {
             position:absolute;
-            top: 9%;
-            right: 1%;
+            top: 5%;
+            right: 5%;
             color: #fff;
-            font-size: 40px;
+            font-size: 25px;
             font-family:'Titilium Web';} 
     
         .centered {
@@ -45,8 +46,11 @@ body {
             width:100%;
             font-family:'Titilium Web';}
         .about {
-            bottom:40%;
+            top: 5%;
+            left: 5%;
+            font-size: 25px;
             background-color: rgba(24, 58, 35, 0);
+            font-family:'Titilium Web';
             color: white;}  
 
         .STAGE3 {
@@ -54,25 +58,25 @@ body {
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-style: inherit;} 
+            font-family:'Titilium Web';} 
         .STAGE2 {
             bottom:30%;
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-style: inherit;} 
+            font-family:'Titilium Web';} 
         .modelling {
             bottom:25%;
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-style: inherit;} 
+            font-family:'Titilium Web';} 
         .renders {
             bottom:20%;
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-style: inherit; }
+            font-family:'Titilium Web'; }
         .sketching {
             position: fixed;
             text-align: center;
@@ -80,7 +84,7 @@ body {
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-style: inherit;}
+            font-family:'Titilium Web';}
     @media screen and (min-width: 900px)  {
                 body { width: 100%;}
                 .centered { font-size: 60px;}
@@ -93,10 +97,10 @@ body {
             top: 4%;
             right: 10%;
             color: #fff;
-            font-size: 20px;} 
+            font-size: 16px;} 
         
                 body { width: 50%;}
-                .centered {font-size: 25px;}
-                .bottom { font-size: 10px;}
-                .about, .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2 { font-size: 20px}}
+                .centered {font-size: 30px;}
+                .bottom { font-size: 16px;}
+                .about, .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2 { font-size: 24px}}
     
