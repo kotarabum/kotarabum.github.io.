@@ -18,7 +18,7 @@ body {
         width:100%;
         font-size: 18px ;
         font-weight: 10;
-        font-family:'Titilium Web';}
+        font-family:'Press Start 2P';}
     
         .contact {
             position:absolute;
@@ -26,7 +26,7 @@ body {
             right: 5%;
             color: #fff;
             font-size: 20px;
-            font-family:'Titilium Web';} 
+            font-family:'Press Start 2P';} 
     
         .centered {
             position: fixed;
@@ -36,7 +36,7 @@ body {
             font-size: calc(60px-2vm);
             width:100%;
             font-weight: 70;
-            font-family:'Titilium Web';}
+            font-family:'Press Start 2P';}
         .bottom {
             position: fixed;
             text-align: center;
@@ -45,13 +45,13 @@ body {
             color: #fff;
             font-size: calc(70px-2vm);
             width:100%;
-            font-family:'Titilium Web';}
+            font-family:'Press Start 2P';}
         .about {
             top: 5%;
             left: -50%;
             font-size: 20px;
             background-color: rgba(24, 58, 35, 0);
-            font-family:'Titilium Web';
+            font-family:'Press Start 2P';
             color: white;}  
 
         .STAGE3 {
@@ -59,25 +59,25 @@ body {
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-family:'Titilium Web';} 
+            font-family:'Press Start 2P';} 
         .STAGE2 {
             bottom:30%;
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-family:'Titilium Web';} 
+            font-family:'Press Start 2P';} 
         .modelling {
             bottom:25%;
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-family:'Titilium Web';} 
+            font-family:'Press Start 2P';} 
         .renders {
             bottom:20%;
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-family:'Titilium Web'; }
+            font-family:'Press Start 2P'; }
         .sketching {
             position: fixed;
             text-align: center;
@@ -85,7 +85,7 @@ body {
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-family:'Titilium Web';}
+            font-family:'Press Start 2P';}
     @media screen and (min-width: 900px)  {
                 body { width: 100%;}
                 .centered { font-size: 60px;}
