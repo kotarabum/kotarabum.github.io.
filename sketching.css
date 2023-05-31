@@ -1,11 +1,16 @@
+   @font-face {
+    font-family: pressstart;
+      src: url('PressStart2P-Regular.ttf');}
+
+    
 * {
     box-sizing: border-box;
     margin:0%;
     padding:0%;}
     
     body {
-    font-family: 'Courier New', Courier, monospace;
-    background-color:rgb(179, 179, 179);
+    font-family: 'pressstart';
+    background-color:rgba(0, 0, 0, 0.801);
     width:100%;
     min-height: 100vh;
     margin:0%;
