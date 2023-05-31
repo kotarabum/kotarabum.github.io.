@@ -14,7 +14,7 @@ body {
   text-decoration: none;
   }
 
-@import url('https://fonts.google.com/specimen/Press+Start+2P');
+@import src: url(PressStart2P-Regular.ttf);
 
         .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2
         {position: fixed;
