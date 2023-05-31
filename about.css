@@ -27,7 +27,7 @@ body {
     transform: translate(-50%, -50%);}
     .text 
     {position: absolute;
-    top: 600px;
+    top: 200px;
     left: 5%;
     font-size: 25px;
     width: 40%;
@@ -37,7 +37,7 @@ body {
     font-family: 'pressstart';}
      .text1 {
     position: absolute;
-    top: 1600px;
+    top: 1800px;
     right: 5%;
     font-size: 25px;
     width: 40%;
@@ -246,7 +246,7 @@ body {
             top:300px;}
         .text1 {
             top:1200px;
-        width:70%}
+        width:100%}
 
     .text17, .heading {font-size: 10px;}
     .heading {
@@ -255,7 +255,7 @@ body {
     }
         .photo{
             width:60%;
-            top:500px;}
+            top:50px;}
     }
     @media screen and (min-width: 900px){ 
         body {width:100%;
