@@ -3,18 +3,19 @@
     margin:0%;
     padding:0%;}
     
+ @face-font {
+    font-family: pressstart;
+    src: url('PressStart2P-Regular.ttf');
+
     body {
-    font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(0, 0, 0);
+    font-family: 'pressstart';
+    background-color:rgba(0, 0, 0, 0.801);
     width:100%;
     min-height: 100vh;
     margin:0%;
     padding:0%;}
 
-   @face-font {
-    font-family: pressstart;
-    src: url('PressStart2P-Regular.ttf');
-
+ 
     .back {
         position:fixed;
         top: 2%;
@@ -39,7 +40,7 @@
         font-family: 'pressstart';}
 
     .text {
-         position:absolute;
+         position: absolute;
          text-align: center;
          position: center 0;
          transform: translate(-50%, -50%);
