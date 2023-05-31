@@ -1,11 +1,18 @@
+   @font-face {
+    font-family: pressstart;
+      src: url('PressStart2P-Regular.ttf');}
+
+   
+    
+
 * {
     box-sizing: border-box;
     margin:0%;
     padding:0%;}
     
     body {
-    font-family: 'Courier New', Courier, monospace;
-    background-color:rgb(163, 128, 165);
+     font-family: 'pressstart';
+    background-color:rgba(0, 0, 0, 0.801);
     width:100%;
     min-height: 100vh;
     margin:0%;
@@ -99,6 +106,8 @@
         transform: translate(-5%, -5%);
         color: #fff;
         text-align: center;
+        font-family: 'pressstart';
+        text-decoration:none;
     z-index: 98;}
      .heading {
         text-align: center;
@@ -107,16 +116,9 @@
         top: 4%;
         left:50%;
         color: white;
-        font-size: 30px;
+        font-size: 16px;
         z-index: 999;
-        background-color:black;
-        padding-left: 300px;
-        padding-right: 300px;
-        border-style: solid;
-        border-color: black;
-        background-color:black;
-        border-width: 0px;
-        border-radius: 0px;}
+        font-family: 'pressstart';}
 
      .text {
          position:absolute;
@@ -127,7 +129,8 @@
          top: 200px;
          width: 60%;
          font-size: 16px;
-         color: rgba(255, 255, 255, 0.8);}
+         font-family: 'pressstart';
+         color: white;}
 
 
 @media screen and (max-width: 900px)
