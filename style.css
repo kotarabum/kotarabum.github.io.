@@ -13,6 +13,9 @@ body {
   overflow-y: hidden;
   text-decoration: none;
   }
+
+@import url('https://fonts.google.com/specimen/Press+Start+2P');
+
         .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2
         {position: fixed;
         text-align: center;
