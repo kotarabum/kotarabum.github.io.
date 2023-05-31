@@ -1,0 +1,116 @@
+
+
+    body { 
+        background-color: white;
+        background: url(MOVING%20TEMPLE%202.gif);
+        background-size: cover;
+        background-position: center center;
+        background-attachment: relative;
+        width: 100%;}
+        
+        .about, .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2
+        {position: fixed;
+        text-align: center;
+        width:100%;
+        font-size: 16px ;
+        font-weight: 20;
+        font-family:'Courier New', Courier, monospace;}
+    
+        .contact {
+            position:absolute;
+            top: 9%;
+            right: 1%;
+            color: #fff;
+            font-size: 20px;} 
+    
+        .centered {
+            position: fixed;
+            text-align:center;
+            bottom:60%;
+            color: #fff;
+            font-size: calc(60px-2vm);
+            width:100%;
+            font-weight: 70;
+            font-family:'Courier New', Courier, monospace;}
+        .bottom {
+            position: fixed;
+            text-align: center;
+            bottom:58%;
+            background-color: rgba(24, 58, 35, 0);
+            color: #fff;
+            font-size: calc(70px-2vm);
+            width:100%;
+            font-family:'Courier New', Courier, monospace;}
+        .about {
+            bottom:40%;
+            background-color: rgba(24, 58, 35, 0);
+            color: white;}  
+
+        .STAGE3 {
+            bottom:35%;
+            margin:0px;
+            background-color: rgba(24, 58, 35, 0);
+            color: white;
+            font-style: inherit;} 
+        .STAGE2 {
+            bottom:30%;
+            margin:0px;
+            background-color: rgba(24, 58, 35, 0);
+            color: white;
+            font-style: inherit;} 
+        .modelling {
+            bottom:25%;
+            margin:0px;
+            background-color: rgba(24, 58, 35, 0);
+            color: white;
+            font-style: inherit;} 
+        .renders {
+            bottom:20%;
+            margin:0px;
+            background-color: rgba(24, 58, 35, 0);
+            color: white;
+            font-style: inherit; }
+        .sketching {
+            position: fixed;
+            text-align: center;
+            bottom:15%;
+            margin:0px;
+            background-color: rgba(24, 58, 35, 0);
+            color: white;
+            font-style: inherit;}
+
+        #square1 {
+            position:fixed;
+            top: 1%;
+            right: 2%;
+            width: 20px;
+            height: 20px;
+            background-color: rgba(255, 255, 255, 0.986);
+            border-radius: 1px;} 
+        #square2 {
+            position: fixed; 
+            top: 5%;
+            right: 2%;
+            width: 20px;
+            height: 20px;
+            background-color: rgba(255, 255, 255, 0.986);
+            border-radius: 1px;} 
+    @media screen and (min-width: 900px)  {
+                body { width: 100%;}
+                .centered { font-size: 60px;}
+                .bottom { font-size: 20px;}
+                .about, .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2 { font-size: 30px}}
+    @media screen and (max-width: 900px) {
+        
+            .contact {
+            position:absolute;
+            top: 4%;
+            right: 10%;
+            color: #fff;
+            font-size: 15px;} 
+        
+                body { width: 50%;}
+                .centered {font-size: 25px;}
+                .bottom { font-size: 10px;}
+                .about, .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2 { font-size: 20px}}
+    
