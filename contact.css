@@ -3,9 +3,9 @@
     margin:0%;
     padding:0%;}
     
- @face-font {
+ @font-face {
     font-family: pressstart;
-    src: url('PressStart2P-Regular.ttf');
+     src: url('PressStart2P-Regular.ttf');}
 
     body {
     font-family: 'pressstart';
