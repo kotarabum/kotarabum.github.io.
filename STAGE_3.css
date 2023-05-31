@@ -4,7 +4,7 @@
     padding:0%;}
     
     body {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Press Start 2P';
     background-color:rgba(0, 0, 0, 0.801);
     width:100%;
     min-height: 100vh;
@@ -175,9 +175,11 @@
     left: 2%;
     font-size: 30px;
     transform: translate(-5%, -5%);
+    text-decoration: none;
     color: #fff;
     text-align: center;
-    z-index: 98;}
+    z-index: 98;
+    font-family: 'Press Start 2P';}
 .heading {
     text-align: center;
     position: fixed;
@@ -194,7 +196,8 @@
     border-color: black;
     background-color:black;
     border-width: 0px;
-    border-radius: 0px;}
+    border-radius: 0px;
+    font-family: 'Press Start 2P';}
 
 .text {
     position:absolute;
@@ -205,7 +208,8 @@
     top: 200px;
     width: 60%;
     font-size: 16px;
-    color: rgba(255, 255, 255, 0.8);}
+    color: rgba(255, 255, 255, 0.8);
+    font-family: 'Press Start 2P';}
 
 .text1 {
         position:absolute;
@@ -216,7 +220,8 @@
         top: 490px;
         width: 60%;
         font-size: 12px;
-        color: rgba(255, 255, 255, 0.8);}
+        color: rgba(255, 255, 255, 0.8);
+        font-family: 'Press Start 2P';}
     
 
 
