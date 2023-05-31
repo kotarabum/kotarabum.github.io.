@@ -14,7 +14,10 @@ body {
   text-decoration: none;
   }
 
-@import src: url(PressStart2P-Regular.ttf);
+ @pressstart2p {
+    font-family: pressstart2p;
+    src: url(PressStart2P-Regular.ttf);
+}
 
         .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2
         {position: fixed;
@@ -22,7 +25,7 @@ body {
         width:100%;
         font-size: 18px ;
         font-weight: 10;
-        font-family:'Press Start 2P';}
+        font-family: 'pressstart2p';}
     
         .contact {
             position:absolute;
@@ -30,7 +33,7 @@ body {
             right: 5%;
             color: #fff;
             font-size: 20px;
-            font-family:'Press Start 2P';} 
+            font-family: 'pressstart2p';} 
     
         .centered {
             position: fixed;
@@ -40,7 +43,7 @@ body {
             font-size: calc(60px-2vm);
             width:100%;
             font-weight: 70;
-            font-family:'Press Start 2P';}
+            font-family: 'pressstart2p';}
         .bottom {
             position: fixed;
             text-align: center;
@@ -49,39 +52,39 @@ body {
             color: #fff;
             font-size: calc(70px-2vm);
             width:100%;
-            font-family:'Press Start 2P';}
+            font-family: 'pressstart2p';}
         .about {
             position:absolute;
             top: 5%;
             left: 5%;
             color: #fff;
             font-size: 20px;
-            font-family:'Press Start 2P';}  
+            font-family: 'pressstart2p';}  
 
         .STAGE3 {
             bottom:35%;
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-family:'Press Start 2P';} 
+            font-family: 'pressstart2p';} 
         .STAGE2 {
             bottom:30%;
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-family:'Press Start 2P';} 
+            font-family: 'pressstart2p';} 
         .modelling {
             bottom:25%;
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-family:'Press Start 2P';} 
+            font-family: 'pressstart2p';} 
         .renders {
             bottom:20%;
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-family:'Press Start 2P'; }
+            font-family: 'pressstart2p'; }
         .sketching {
             position: fixed;
             text-align: center;
@@ -89,7 +92,7 @@ body {
             margin:0px;
             background-color: rgba(24, 58, 35, 0);
             color: white;
-            font-family:'Press Start 2P';}
+            font-family: 'pressstart2p';}
     @media screen and (min-width: 900px)  {
                 body { width: 100%;}
                 .centered { font-size: 60px;}
@@ -113,5 +116,5 @@ body {
                 body { width: 50%;}
                 .centered {font-size: 30px;}
                 .bottom { font-size: 16px;}
-                .about, .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2 { font-size: 24px}}
+                .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2 { font-size: 24px}}
     
