@@ -6,7 +6,7 @@
         background-size: cover;
         background-position: center center;
         background-attachment: relative;
-        width: 100%;}
+        }
         
         .about, .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2
         {position: fixed;
