@@ -1,6 +1,6 @@
-    @pressstart2p {
-    font-family: pressstart2p;
-    src: url(PressStart2P-Regular.ttf);
+    @face-font {
+    font-family: pressstart;
+    src: url('PressStart2P-Regular.ttf');
 }
 
 body {
@@ -43,7 +43,7 @@ body {
     color: black;
     text-align:end;
     text-align:right;
-    font-family: 'pressstart2p';} 
+    font-family: 'pressstart';} 
 
     #circle2 {
         position: absolute;
@@ -92,7 +92,7 @@ body {
     transform: translate(-50%, -50%);
     font-size: 20px;
     color: rgba(0, 0, 0, 0.80);
-    font-family: 'pressstart2p';
+    font-family: 'pressstart';
     margin:1%;} 
      .text3 {
     position:absolute;
@@ -101,7 +101,7 @@ body {
     top: 150%;
     font-size: 30px;
     color: rgba(0, 0, 0, 0.80);
-    font-family: 'pressstart2p';
+    font-family: 'pressstart';
     margin:1%;} 
      .text4 {
     position:absolute;
@@ -110,7 +110,7 @@ body {
     top: 154%;
     font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
-    font-family: 'pressstart2p';
+    font-family: 'pressstart';
     margin:1%;} 
     .text6 {
     position:absolute;
@@ -119,7 +119,7 @@ body {
     top: 168%;
     font-size: 20px;
     color: rgba(0, 0, 0, 0.80);
-    font-family: 'pressstart2p';
+    font-family: 'pressstart';
     margin:1%;} 
     .text7 {
     position:absolute;
@@ -128,7 +128,7 @@ body {
     top: 170%;
     font-size: 30px;
     color: rgba(0, 0, 0, 0.80);
-    font-family: 'pressstart2p';
+    font-family: 'pressstart';
     margin:1%;} 
     .text8 {
     position:absolute;
@@ -137,7 +137,7 @@ body {
     top: 174%;
     font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
-    font-family: 'pressstart2p';
+    font-family: 'pressstart';
     margin:1%;} 
     .text9 {
     position:absolute;
@@ -146,7 +146,7 @@ body {
     top: 188%;
     font-size: 20px; 
     color: rgba(0, 0, 0, 0.80);
-    font-family: 'pressstart2p';
+    font-family: 'pressstart';
     margin:1%;} 
     .text10 {
     position:absolute;
@@ -155,7 +155,7 @@ body {
     top: 190%;
     font-size: 30px; 
     color: rgba(0, 0, 0, 0.80);
-    font-family: 'pressstart2p';
+    font-family: 'pressstart';
     margin:1%;} 
     .text11 {
     position:absolute;
@@ -164,7 +164,7 @@ body {
     top: 194%;
     font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
-    font-family: 'pressstart2p';
+    font-family: 'pressstart';
     margin:1%;} 
     .text12 {
     position:absolute;
@@ -173,7 +173,7 @@ body {
     top: 208%;
     font-size: 20px;
     color: rgba(0, 0, 0, 0.80);
-    font-family: 'pressstart2p';
+    font-family: 'pressstart';
     margin:1%;} 
     .text13 {
     position:absolute;
@@ -182,7 +182,7 @@ body {
     top: 210%;
     font-size: 30px;
     color: rgba(0, 0, 0, 0.80);
-    font-family: 'pressstart2p';
+    font-family: 'pressstart';
     margin:1%;} 
      .text14 {
     position:absolute;
@@ -191,7 +191,7 @@ body {
     top: 214%;
     font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
-    font-family: 'pressstart2p';
+    font-family: 'pressstart';
     margin:1%;} 
      .text16 {
     position:absolute;
@@ -201,7 +201,7 @@ body {
     font-size: 15px;
     color: rgba(0, 0, 0, 0.80);
     padding-bottom: 50px;
-    font-family: 'pressstart2p';} 
+    font-family: 'pressstart';} 
     .text17 {
        position:fixed;
        display: block;
@@ -211,7 +211,7 @@ body {
        color: rgba(0, 0, 0, 0.80);
        ;
        text-align: center;
-       font-family: 'pressstart2p';} 
+       font-family: 'pressstart';} 
     .heading {
        position: fixed;
        left: 50%;
@@ -222,7 +222,7 @@ body {
        color: rgba(0, 0, 0, 0.80);
        font-size: 40px;
        z-index: 999;
-        font-family: 'pressstart2p';
+        font-family: 'pressstart';
        }
     
     @media screen and (max-width: 900px){ 
@@ -252,8 +252,8 @@ body {
     padding-right: 20%;
     }
         .photo{
-            width:25%;
-            top:150px;}
+            width:60%;
+            top:100px;}
     }
     @media screen and (min-width: 900px){ 
         body {width:100%;
@@ -277,7 +277,7 @@ body {
          margin-left: 0px;}
          .text17, .heading {font-size: 30px;}
         .photo { position: absolute;
-                 width:25%;
+                 width:40%;
                  left: 50%;
                  transform: translate(-50%, -50%);
                  top:700px;}  
