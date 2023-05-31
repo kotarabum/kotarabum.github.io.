@@ -47,7 +47,7 @@ body {
         .bottom {
             position: fixed;
             text-align: center;
-            bottom:58%;
+            bottom:55%;
             background-color: rgba(24, 58, 35, 0);
             color: #fff;
             font-size: calc(70px-2vm);
@@ -116,8 +116,8 @@ body {
                 body { width: 50%;}
                 .centered {font-size: 30px;}
                 .bottom { font-size: 16px;
-                top: 45%;}
+                top: 47%;}
                 .STAGE3 { 
-                  bottom: 40%;
+                  bottom: 37%;
                 .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2 { font-size: 24px}}
     
