@@ -11,8 +11,9 @@ body {
   padding: 0;
   overflow-x: hidden;
   overflow-y: hidden;
+  text-decoration: none;
   }
-        .about, .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2
+        .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2
         {position: fixed;
         text-align: center;
         width:100%;
@@ -48,7 +49,7 @@ body {
             font-family:'Press Start 2P';}
         .about {
             top: 5%;
-            left: -200%;
+            left: 5%;
             font-size: 20px;
             background-color: rgba(24, 58, 35, 0);
             font-family:'Press Start 2P';
