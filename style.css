@@ -14,9 +14,9 @@ body {
   text-decoration: none;
   }
 
- @pressstart {
+ @font-face {
     font-family: pressstart;
-    src: url(PressStart2P-Regular.ttf);
+    src: url('PressStart2P-Regular.ttf');
 }
 
         .modelling, .renders, .sketching, .portfolios, .STAGE3, .STAGE2
