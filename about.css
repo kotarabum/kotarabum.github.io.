@@ -10,6 +10,7 @@ body {
     padding-left: 40px ;
     background-color: rgb(255, 255, 255);
     background-size: 50%;
+      overflow-x: hidden;
     margin:5%;
     font-family: 'pressstart';}
 
