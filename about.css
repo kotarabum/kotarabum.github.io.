@@ -28,10 +28,10 @@ body {
     transform: translate(-50%, -50%);}
     .text 
     {position: absolute;
-    top: 700px;
+    top: 900px;
     left: 5%;
     font-size: 25px;
-    width: 40%;
+    width: 60%;
     color: black;
     text-align:end;
     text-align: left;
@@ -211,7 +211,7 @@ body {
        transform: translate(-50%, -50%);
        text-align: center;
        display:block;
-       top:4%;
+       top:2%;
        color: rgba(0, 0, 0, 0.80);
        font-size: 50px;
        z-index: 999;
@@ -237,10 +237,10 @@ body {
         
         .text {
             top:800px;
-        width:700%;}
+        width:70%;}
         
         .text1 {
-            top:1200px; }
+            top:1300px; }
 
     .text17, .heading {font-size: 10px;}
     .heading {
